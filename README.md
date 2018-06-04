@@ -8,7 +8,7 @@
 [![PyPI - Python Version](https://img.shields.io/badge/Python%20Version-3.6.5-blue.svg?style=flat-square)](https://github.com/Riverfount/pypro)
 [![PyPI - Django Version](https://img.shields.io/badge/Django%20Version-2.0.6-blue.svg?style=flat-square)](https://github.com/Riverfount/pypro)
 
-##If you want to contribute you need to do:
+## If you want to contribute you need to do:
 
 Make sure that the Python >= 3.6.5 was installed.
 
@@ -22,7 +22,7 @@ Make sure that the Python >= 3.6.5 was installed.
 8. Make sure that the code agrees with the PEP8 recommendations
 9. Make sure that the test will pass with codecov coverage
 
-###These steps as a code:
+### These steps as a code:
 
 ```console
 git clone [address to your remote fork repo]
