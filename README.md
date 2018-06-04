@@ -1,6 +1,6 @@
 # CertGen - Django Project to build an App that Generates and Manage an Issue of Certificates 
 
-[![Build Status](https://travis-ci.org/vmdesenvolvimento/pypro.svg?branch=master)](https://travis-ci.org/vmdesenvolvimento/pypro)
+[![Build Status](https://travis-ci.org/vmdesenvolvimento/certgen.svg?branch=master)](https://travis-ci.org/vmdesenvolvimento/certgen)
 [![codecov](https://codecov.io/gh/vmdesenvolvimento/pypro/branch/master/graph/badge.svg)](https://codecov.io/gh/Riverfount/pypro)
 [![Updates](https://pyup.io/repos/github/vmdesenvolvimento/certgen/shield.svg)](https://pyup.io/repos/github/vmdesenvolvimento/certgen/)
 [![Python 3](https://pyup.io/repos/github/vmdesenvolvimento/certgen/python-3-shield.svg)](https://pyup.io/repos/github/vmdesenvolvimento/certgen/)
