@@ -1,7 +1,7 @@
 # CertGen - Django Project to build an App that Generates and Manage an Issue of Certificates 
 
 [![Build Status](https://travis-ci.org/vmdesenvolvimento/certgen.svg?branch=master)](https://travis-ci.org/vmdesenvolvimento/certgen)
-[![codecov](https://codecov.io/gh/vmdesenvolvimento/pypro/branch/master/graph/badge.svg)](https://codecov.io/gh/Riverfount/pypro)
+[![codecov](https://codecov.io/gh/vmdesenvolvimento/certgen/branch/master/graph/badge.svg)](https://codecov.io/gh/vmdesenvolvimento/certgen)
 [![Updates](https://pyup.io/repos/github/vmdesenvolvimento/certgen/shield.svg)](https://pyup.io/repos/github/vmdesenvolvimento/certgen/)
 [![Python 3](https://pyup.io/repos/github/vmdesenvolvimento/certgen/python-3-shield.svg)](https://pyup.io/repos/github/vmdesenvolvimento/certgen/)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
